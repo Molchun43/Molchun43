@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNsc3d2cTZlMnRjYzVnaGRvZ3RhM3hybnducWpobng1dmo2cnh2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNsc3d2cTZlMnRjYzVnaGRvZ3RhM3hybnducWpobng1dmo2cnh2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="160"/>
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/romzazka">
