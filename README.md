@@ -5,12 +5,12 @@
   <a href="https://vk.com/romzazka">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte Badge"/>
   </a>
-  <a href="">
+<!-- <a href="">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  </a> 
   <a href="https://t.me/@Romzazka"/>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+  </a> -->
 </div>
 
   <div id="badges" align="center">
